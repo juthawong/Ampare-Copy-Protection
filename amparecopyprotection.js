@@ -9,7 +9,7 @@ jQuery(document).ready(function() {
     }); 
 }); 
 
-jQuery(el).attr('unselectable','on')
+jQuery("html").attr('unselectable','on')
      .css({'-moz-user-select':'-moz-none',
            '-moz-user-select':'none',
            '-o-user-select':'none',

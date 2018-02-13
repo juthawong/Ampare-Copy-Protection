@@ -5,7 +5,7 @@ Simple Jquery Script To Prevent Noob From Copy Your Content
 Seriously? Just Embed The Script and it works!
 
 
-CDN ( For  Blogger / CMS That Can't Upload File )
+### CDN ( For  Blogger / CMS That Can't Upload File )
 
 ```javascript
 <script src='https://raw.githubusercontent.com/juthawong/Ampare-Copy-Protection/master/amparecopyprotection.js'></script>

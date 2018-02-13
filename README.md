@@ -14,3 +14,6 @@ Seriously? Just Embed The Script and it works!
 ## NPM
 
 
+```bash
+npm install amparecopyprotection
+```

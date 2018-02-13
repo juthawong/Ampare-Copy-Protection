@@ -14,5 +14,3 @@ Seriously? Just Embed The Script and it works!
 ## NPM
 
 
-
-Or Download From Our Released
